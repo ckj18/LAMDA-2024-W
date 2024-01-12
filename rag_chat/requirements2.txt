@@ -1,0 +1,6 @@
+langchain==0.0.327
+openai==0.28.1
+faiss-cpu==1.7.4
+streamlit
+streamlit-chat
+tiktoken
