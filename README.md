@@ -9,3 +9,17 @@
 ## Code implementation
 ### code updated on rag_chat folder
 #### Baseline & Data collection complete
+
+# 2nd week 
+## Paper review
+### 1. S-LoRA
+#### Link : https://factual-earwig-905.notion.site/S-LoRA-2ff53d9afb314e109d8d6f1a197c9304?pvs=4
+
+## Naver Boostclass 
+### Lecture study
+![image](https://github.com/ckj18/Mogakso24/assets/48816329/9c25d764-53e2-48b8-8135-d53fc4094ade)
+
+## ADsP license study
+![image](https://github.com/ckj18/Mogakso24/assets/48816329/6271f6fe-1806-4ea5-b1e1-2629910842df)
+
+
