@@ -23,3 +23,15 @@
 ![image](https://github.com/ckj18/Mogakso24/assets/48816329/6271f6fe-1806-4ea5-b1e1-2629910842df)
 
 
+# 3rd week 
+## Paper review
+### 1. Prompter: Zero-shot Adaptive Prefixes for Dialogue State Tracking Domain Adaptation
+#### Link : https://factual-earwig-905.notion.site/Prompter-Zero-shot-Adaptive-Prefixes-for-Dialogue-State-Tracking-Domain-Adaptation-e6ddfc6b19b64170ac972ed31282017e?pvs=4
+
+## Naver Boostclass 
+### Lecture study
+![image](https://github.com/ckj18/Mogakso24/assets/48816329/908e117e-b7f3-42d6-aa9f-b7c5d82c3380)
+
+
+
+
