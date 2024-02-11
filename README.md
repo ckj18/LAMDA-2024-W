@@ -33,5 +33,14 @@
 ![image](https://github.com/ckj18/Mogakso24/assets/48816329/908e117e-b7f3-42d6-aa9f-b7c5d82c3380)
 
 
+# 4th week 
+## Paper review
+### 1. Dim-Krum:Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation
+#### Link : https://factual-earwig-905.notion.site/Dim-Krum-Backdoor-Resistant-Federated-Learning-for-NLP-with-Dimension-wise-Krum-Based-Aggregation-6328f4c2d02d43fa83d4223a520b2fbd?pvs=4
+
+## Naver Boostclass 
+### Lecture study
+![image](https://github.com/ckj18/Mogakso24/assets/48816329/256a6fcd-758f-43a2-b343-7f3ecf87963d)
+
 
 
