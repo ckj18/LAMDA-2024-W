@@ -42,5 +42,15 @@
 ### Lecture study
 ![image](https://github.com/ckj18/Mogakso24/assets/48816329/256a6fcd-758f-43a2-b343-7f3ecf87963d)
 
+# 5th week 
+## Paper review
+### 1. S-LoRA
+#### Link : https://factual-earwig-905.notion.site/S-LoRA-2ff53d9afb314e109d8d6f1a197c9304?pvs=4
+
+## Naver Boostclass 
+### Lecture study
+![image](https://github.com/ckj18/Mogakso24/assets/48816329/89eee6b5-ebf1-4f8a-a2b8-0a1826bca6a9)
+
+
 
 
