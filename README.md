@@ -44,8 +44,8 @@
 
 # 5th week 
 ## Paper review
-### 1. S-LoRA
-#### Link : https://factual-earwig-905.notion.site/S-LoRA-2ff53d9afb314e109d8d6f1a197c9304?pvs=4
+### 1. ParaAMR: A Large-Scale Syntactically Diverse Paraphrase Dataset by AMR Back-Translation
+#### Link : https://factual-earwig-905.notion.site/ParaAMR-A-Large-Scale-Syntactically-Diverse-Paraphrase-Dataset-by-AMR-Back-Translation-25d5ecc75005499f8c0ecd295d7c04c5?pvs=4
 
 ## Naver Boostclass 
 ### Lecture study
